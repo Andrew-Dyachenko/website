@@ -55,6 +55,9 @@ Then, create a `.posthtmlrc`:
     },
     "posthtml-modules": {
       "root": "./src"
+    },
+    "posthtml-w3c": {
+        "root": './'
     }
   }
 }
